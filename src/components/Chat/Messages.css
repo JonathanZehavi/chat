@@ -1,0 +1,21 @@
+.messages-container {
+    align-self: center;
+    text-align: right;
+    width: 421px;
+    height: 417px;
+    border: solid black 2px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.single-message {
+    font-size: 15px;
+    width: fit-content;
+    padding: 9px;
+    margin: 0;
+    border-radius: 5px;
+    background-color: rgb(160, 240, 80);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}

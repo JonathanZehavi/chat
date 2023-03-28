@@ -1,0 +1,13 @@
+.chat-area {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.input-button-area {
+    display: flex;
+    justify-content: center;
+    margin: 9px;
+}
